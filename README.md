@@ -1,2 +1,3 @@
-# dpy-book
-discord.pyのzenn用の本
+# Zenn CLI
+
+* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)

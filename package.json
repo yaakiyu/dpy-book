@@ -1,0 +1,23 @@
+{
+  "name": "dpy-book",
+  "version": "1.0.0",
+  "description": "discord.pyのzenn用の本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaakiyu/dpy-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaakiyu/dpy-book/issues"
+  },
+  "homepage": "https://github.com/yaakiyu/dpy-book#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.132"
+  }
+}
